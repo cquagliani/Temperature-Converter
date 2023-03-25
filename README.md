@@ -1,3 +1,3 @@
 # Temperature-Converter
 
-This simple program converts a temperature from any scale to any scale (Fahrenheit, Celsius, Kelvin). I created this script to practice creating menu-based programs.
+<p>This is a simple C++ terminal program that converts a temperature from one scale to another (Fahrenheit, Celsius, Kelvin).</p>
